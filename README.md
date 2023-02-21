@@ -4,7 +4,7 @@
 
 ![Profile views](https://visitor-badge.deta.dev/badge?page_id=hoyirul.hoyirul)
 
-<div size='20px'> Hi! My name is Yoga Rahmahadi. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Mochammad Hairullah. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 ### About Me

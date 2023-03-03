@@ -16,10 +16,10 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/hoyirul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfi_filsafat" height="30" width="40" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alfi filsafalasafi" height="30" width="40" /></a>
-<a href="https://instagram.com/hoyirul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfi_filsafat" height="30" width="40" /></a>
-<a href="https://discord.gg/podey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Filsafalasafi#9154" height="30" width="40" /></a>
+<a href="https://twitter.com/hoyirul_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfi_filsafat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008630740589" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alfi filsafalasafi" height="30" width="40" /></a>
+<a href="https://instagram.com/hoyirul_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfi_filsafat" height="30" width="40" /></a>
+<a href="https://discord.gg/podey#3088" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Filsafalasafi#9154" height="30" width="40" /></a>
 </p>
 
 ### Github Statistic

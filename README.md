@@ -12,7 +12,7 @@
 - 🌱 I'm currently internship at [PT. Amerta Indah Otsuka](https://www.aio.co.id/).
 - 💬 Ask me anything (I'll answer if I know).
 - ⚡ Fun fact:  
---> I like learning new things, especially those related to technology.
+  - I like learning new things, especially those related to technology.
 
 ### Connect with me:
 <p align="left">

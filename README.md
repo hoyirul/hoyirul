@@ -6,8 +6,9 @@
 </div>
 
 ### About Me
-- 🏫 I'm a student at the [State Polytechnic of Malang](http://jti.polinema.ac.id/).
-- 🌱 I'm currently internship at [PT. Amerta Indah Otsuka](https://www.aio.co.id/).
+- 🎓 I graduated from the [State Polytechnic of Malang](http://jti.polinema.ac.id/).
+- 💼 Currently working at PT Ika Raya Sentausa and remotely in Jakarta.
+- 🌱 I'm also interning at [PT. Amerta Indah Otsuka](https://www.aio.co.id/).
 - 💬 Ask me anything (I'll answer if I know).
 - ⚡ Fun fact:  
   - I like learning new things, especially those related to technology.
